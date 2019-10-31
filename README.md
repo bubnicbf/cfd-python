@@ -1,2 +1,2 @@
-# cfd-python
-Repo for CFD with python
+This is a repository for CFD with python
+Will go through "12 steps for Navier-Stokes"
